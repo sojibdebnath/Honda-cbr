@@ -8,3 +8,7 @@ background-color: #E76F51;
 .honda-cbr-custom-color{
 color: #E76F51;
 }
+/* img-gray-scale */
+.img-gray-scale{
+    filter: grayscale(100%)
+}
